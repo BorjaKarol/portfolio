@@ -62,12 +62,6 @@ body{
 
 }
 
-#particles-js{
-	height: 100vmax !important;
-	z-index: 0;
-	}
-
-
 .landing:after{
 	display: block;
 	clear: both;
@@ -269,6 +263,11 @@ hr.socket{
 /* Media Queries */
 
 @media (max-width: 767px){
+	
+	#particles-js{
+		height: 100vmax !important;
+		z-index: 0;
+	}
 
 	.caption h1{
 		font-size: 2.2rem;
