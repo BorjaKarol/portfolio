@@ -259,15 +259,14 @@ hr.socket{
 	border-top: .2rem solid #333;
 }
 
+.particles-js-canvas-el {
+		height: 100vmax !important;
+		z-index: 0;
+	}
 
 /* Media Queries */
 
 @media (max-width: 767px){
-	
-	#particles-js{
-		height: 100vmax !important;
-		z-index: 0;
-	}
 
 	.caption h1{
 		font-size: 2.2rem;
