@@ -35,8 +35,8 @@ body{
 }
 
 .navbar-brand img{
-	height: 4rem;
-	width: 10rem;;
+	height: 3rem;
+	width: 12rem;
 }
 
 .navbar-nav li{
@@ -238,7 +238,7 @@ footer{
 }
 
 footer img{
-	height: 10rem;
+	height: 5rem;
 	width: 20rem;
 	margin: 1.5rem 0;
 }
